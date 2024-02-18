@@ -1,13 +1,14 @@
 package com.shantesh.springdatajpalearning;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringDataJpaLearningApplicationTests {
+public class SpringDataJpaLearningApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
